@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: Roboto;
+}
+
+p {
+    font-size: 30px;
+}
+
+.game-container {
+    background-color: #96B6C5;
+    height: 100vh;
+    text-align: center;
+}
+
+.turn-box {
+    background-color: #ADC4CE;
+    width: 300px;
+    border-radius: 5px;
+    color: black;
+}
+
+.computer-turn {}
+
+.game-box {
+    background-color: #EEE0C9;
+    height: 300px!important;
+    width: 300px!important;
+    border-radius: 10px;
+}
+
+.btn{
+    margin: 10px;
+    width:100px;
+    height:50px;
+}
+
+.game-block {
+    height: 100px;
+    width: 100px;
+}
+
+.box-1 {
+    border-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-2 {
+    border-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-3 {
+    border-style: solid;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-4 {
+    border-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-5 {
+    border-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-6 {
+    border-style: solid;
+    border-right-width: 0px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-7 {
+    border-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-8 {
+    border-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
+
+.box-9 {
+    border-style: solid;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+}
